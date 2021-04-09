@@ -4,6 +4,9 @@ console.log(7 / 0);
 //Irá converter a string para um number e realizar a operação
 console.log("10" / 2);
 
+//Irá concatenar pois o operador + dá preferencia para opreação de concatenação
+console.log("3" + 2);
+
 //Retorna NaN que significa Not a number
 console.log("Show!" * 2);
 
