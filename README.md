@@ -5,7 +5,7 @@ O objetivo desse repositório é armazenar meus códigos produzidos durante o pr
 ## Assuntos estudados 📚
 
 - [Fundamentos](https://github.com/bertdev/estudo-javascript/tree/main/fundamentos)
--
+- [Estruturas de controle]()
 -
 
 ## Contatos 📬
