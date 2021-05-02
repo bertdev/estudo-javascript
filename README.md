@@ -7,6 +7,7 @@ O objetivo desse repositório é armazenar meus códigos produzidos durante o pr
 - [Fundamentos](https://github.com/bertdev/estudo-javascript/tree/main/fundamentos)
 - [Estruturas de controle](https://github.com/bertdev/estudo-javascript/tree/main/estruturasDeControle)
 - [Funções](https://github.com/bertdev/estudo-javascript/tree/main/funcoes)
+- [Objetos](https://github.com/bertdev/estudo-javascript/tree/main/objetos)
 
 ## Contatos 📬
 
